@@ -1,0 +1,1 @@
+var libName = "Lib1";
